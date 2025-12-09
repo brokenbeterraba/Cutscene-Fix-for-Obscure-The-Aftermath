@@ -6,6 +6,12 @@ This is a set of fixes distributed as a precompiled save state for newer version
 - I simplified the installation and use of my modifications into a single **precompiled Save State**.
 - You only need to place it in the **Save States** folder of your emulator.
 
+
+**Before Fix (PPSSPP without Fixes)**  
+![aefl7q](https://github.com/user-attachments/assets/36642609-78af-4c3d-a18f-fb927951d13e)
+
+**After Fix (PPSSPP with Save State Fix)**  
+![aeflb7](https://github.com/user-attachments/assets/204a5b73-d161-4ba1-862f-2c3f1a189b41)
 ---
 
 ## ***⚠️ Important Warning***
